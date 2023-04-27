@@ -4,7 +4,7 @@ Welcome to my code portfolio! This repository is a collection of my personal pro
 
 ## About Me
 
-I am a passionate and dedicated software developer with a strong background in programming and problem-solving. I have experience working with a variety of programming languages and technologies, including Java, JavaScript, TypeScript, Python, C++, HTML/CSS, frameworks such React.js. 
+I am a passionate and dedicated software developer with a strong background in programming and problem-solving. I have experience working with a variety of programming languages and technologies, including Java, JavaScript, TypeScript, Python, C++, HTML/CSS, frameworks such React, Svelte. 
 
 In my projects, I focus on creating high-quality and efficient code. I enjoy taking on challenging projects that push me to learn and grow as a developer, and I am always looking for new opportunities to apply my skills and expertise.
 
